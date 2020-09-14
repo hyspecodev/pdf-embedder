@@ -1,0 +1,16 @@
+
+
+{
+    "name": "hyspecodev/pdf-embedder",
+    "description": "PDF Embedder Pro",
+    "type": "wordpress-plugin",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Jeremy Nusser"
+        }
+    ],
+    "require": {
+		"composer/installers": "^1.7.0"
+	}
+}
